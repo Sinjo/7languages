@@ -1,0 +1,4 @@
+Having looked at Tony Baines's github:
+
+* What does "self" refer to in that context, "Latte"?
+* "protos" lists prototypes of a given object?
