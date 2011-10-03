@@ -1,0 +1,55 @@
+http://iolanguage.com/about/samplecode/
+http://en.wikipedia.org/wiki/Io_(programming_language)#Examples
+http://ozone.wordpress.com/2006/03/15/blame-it-on-io/
+http://lambda-the-ultimate.org/node/2596
+https://io-fans.jottit.com/ - This brings together a lot of different sites
+
+1.
+
+Io> 1 + 1
+==> 2
+Io> 1 + "one"
+
+  Exception: argument 0 to method '+' must be a Number, not a 'Sequence'
+  ---------
+  message '+' in 'Command Line' on line 1
+
+Io is strongly typed, and doesn't allow mixed arguments (as shown above).
+
+2.
+
+Io> true and 0
+==> true
+Io> true and ""
+==> true
+Io> true and nil
+==> false
+
+3.
+
+By calling the hasSlot method as shown below:
+
+Io> Object hasSlot("clone")
+==> true
+
+or to get a list of slots:
+
+Io> Object slotNames sort
+==> list(, !=, -, .., <, <=, ==, >, >=, ?, @, @@, actorProcessQueue, actorRun, ancestorWithSlot, ...)
+
+or for details:
+
+Io> Object slotSummary
+==>  Object_0x19589e0:
+...
+  ancestorWithSlot = Object_ancestorWithSlot()
+  ancestors        = method(a, ...)
+...
+
+4.
+
+Operator	Action
+::=		Creates slot and setter, assigns value to slot
+:=		Creates slot, assignes value to slot
+=		Assigns value if slot exists, else raises exception
+
