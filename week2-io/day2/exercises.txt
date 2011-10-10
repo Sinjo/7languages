@@ -1,4 +1,5 @@
 1. Solutions in fibrec.io and fibloop.io
 2. Solution in denominatorzero.io
 3. Solution in 2dArrayAdd.io
+4. Solution in ListAverage.io
 
