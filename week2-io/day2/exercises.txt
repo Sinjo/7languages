@@ -2,4 +2,4 @@
 2. Solution in denominatorzero.io
 3. Solution in 2dArrayAdd.io
 4. Solution in ListAverage.io
-
+5,6,7. Solution in 2dList.io
