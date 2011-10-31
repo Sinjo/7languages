@@ -1,0 +1,22 @@
+Tutorials:
+
+http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html
+http://cs.union.edu/~striegnk/learn-prolog-now/lpnpage.php?pageid=online
+http://www.doc.gold.ac.uk/~mas02gw/prolog_tutorial/prologpages/
+
+Support forum:
+
+http://www.gprolog.org/#maillist
+http://www.swi-prolog.org/Mailinglist.html
+
+GNU Prolog reference manual:
+
+http://www.gprolog.org/manual/gprolog.html
+
+1. See authors.pl
+
+2. See authors.pl
+
+3. See musicians.pl
+
+4. See musicians.pl
