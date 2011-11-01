@@ -1,7 +1,3 @@
-author('JK Rowling').
-author('Terry Pratchett').
-author('Bruce A. Tate').
-
 wrote('Harry Potter and the Chamber of Secrets', 'JK Rowling').
 wrote('Harry Potter and the Goblet of Fire', 'JK Rowling').
 wrote('Harry Potter and the Half Blood Prince', 'JK Rowling').
