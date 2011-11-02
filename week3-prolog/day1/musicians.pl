@@ -18,4 +18,9 @@ used_in_genre(Instrument, Genre) :- plays(X, Instrument), style(X, Genre).
  *
  * plays(Who, 'guitar').
  *
+ * The following will output "true" (though multiple times,
+ * as there are multiple entries for rock guitarists):
+ *
+ * used_in_genre(guitar, rock).
+ *
  */
