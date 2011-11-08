@@ -1,3 +1,3 @@
-reverselist([], ReversedList) :- write(ReversedList), nl.
-reverselist([Head | Tail], List2) :- reverselist(Tail, [Head | List2]).
-reverselist(List) :- reverselist(List, []).
+reverselist([], []).
+reverselist([Head | Tail1], Result) :- reverselist(Tail1, Tail2), append(Tail2, [Head], Result).
+
