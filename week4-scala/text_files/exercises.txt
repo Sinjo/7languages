@@ -1,0 +1,8 @@
+Scala API:
+http://www.scala-lang.org/api/current/index.html
+
+Comparison of Java and Scala:
+http://i-proving.ca/space/Mike+Wilkes/blog/2011-01-13_1
+
+Discussion of val vs var:
+http://blog.sanaulla.info/2009/07/02/val-versus-var-in-scala/
