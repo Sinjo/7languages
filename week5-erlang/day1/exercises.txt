@@ -1,0 +1,11 @@
+Erlang official site:
+
+http://www.erlang.org/
+
+Documentation for function library and OTP:
+
+http://www.erlang.org/doc/
+
+1. Code in number_of_words.erl
+2. Code in count_to_ten.erl
+3. Code in matching.erl
